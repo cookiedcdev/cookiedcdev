@@ -20,6 +20,7 @@
 | Project | What it is |
 
 | **[Crown Bot](https://discord.gg/crownfn)** | Fortnite Discord bot with loads of commands, all completely free
+
 | **[Crown Bot Website](https://crownfn.com)** | Landing page with live status for the API and the bot 
 
 ---
